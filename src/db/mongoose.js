@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 mongoose.connect(
-  "mongodb+srv://pokkalladinesh:dinesh@cluster0.lzzkxzu.mongodb.net/TaskManager",
+  "mongodb+srv://pokkalladinesh:dinesh@atlascluster.loylxaz.mongodb.net/TaskManager",
   {
     useNewUrlParser: true,
     useCreateIndex: true,
